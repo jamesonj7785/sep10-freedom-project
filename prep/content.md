@@ -44,7 +44,10 @@ Topic: **art apps**
   * [digital canvas](https://canvia.art/pages/digital-art-canvas**)
  
   * animation
-  *  The history of animation spans for hundred's of years
+  *  The history of animation spans for hundreds of years and it started all the way back in 1895, it was revolutionary as it was able to run drawing in art and somehow make those image look like it is moving. Animation today is a very big industry as there are people who are hired to animate for people and there are different types of animation not just 2d drawings. The earliest form of animation was putting two different images together than flipping between them to make it look like they were moving and people would draw a lot of images and let them flip through to get the animation they need.
+  *  Animation can vary as there are now 3d animation which is created with digital creation, these digital creation are different that 3d animation because instead of either drawing them out people have to shape them and also animate the little details that happens on the 3d models. these little details causes a massive change in the art world because when it was first made in 1972 by fed parke which revolutionized the art form.
+  *  Animation is a amazing way of art and it is a tool to express ones internal feelings when they do create them, people spend thousands of dollars and hundreds of hours creating these "animations", animation is hard due to the fact 1 single minute of animation contains hundreds maybe even  thousands of drawings depending on the quality of what you want you work to be, these limitations are what allows us to keep creating new invetnions to help make life easier.
+  *  [animation](https://www.fudgeanimation.com/journal/the-evolution-of-animation-a-timeline)
 
 ## Part B: possible future technology
 * Idea
